@@ -1,0 +1,20 @@
+--- Incoming POST ---
+Content-Type: text/plain;charset=UTF-8
+Body before: undefined
+Body after: undefined
+File after: undefined
+--- Incoming POST ---
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryX7djqETHJkyVqcMZ
+Body before: undefined
+Body after: {"attractionId":"69ee77e6010c81d3a53a7ce6","rating":"5","comment":"good"}
+File after: {"fieldname":"image","originalname":"20190116_124918.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\","filename":"1777237892640-262353078.jpg","path":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\1777237892640-262353078.jpg","size":8600033}
+--- Incoming POST ---
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryWhLJp8e3Yoiz2qFf
+Body before: undefined
+Body after: {"attractionId":"69ee8456dbd7c21ac9987adf","rating":"5","comment":"very"}
+File after: {"fieldname":"image","originalname":"download (3).jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\","filename":"1777240658205-367381957.jpg","path":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\1777240658205-367381957.jpg","size":61128}
+--- Incoming POST ---
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryI3EQy91QFB2ppNcN
+Body before: undefined
+Body after: {"attractionId":"69ef0da5cc934ab7bc3959d4","rating":"5","comment":"good"}
+File after: {"fieldname":"image","originalname":"20190116_124918.jpg","encoding":"7bit","mimetype":"image/jpeg","destination":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\","filename":"1777283806057-710104566.jpg","path":"C:\\Users\\risha\\OneDrive\\Desktop\\CityExplorer\\backend\\uploads\\1777283806057-710104566.jpg","size":8600033}
